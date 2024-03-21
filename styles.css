@@ -1,0 +1,136 @@
+body{
+    
+    /*background-image: url(mugs.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;*/
+    margin-top: 150px;
+
+
+}
+
+
+
+h1{
+    text-align: center;
+    color: blue;
+
+}
+
+#first{
+    color: darkmagenta;
+}
+
+#second{
+    color: darkseagreen;
+}
+
+#third{
+    color: cornflowerblue;
+}
+
+#first_div{
+    color: yellow;
+}
+
+#second_div{
+    color: blue;
+}
+
+#third_div{
+    color: red;
+    text-align: center;
+}
+
+.my_div{
+    font-size: 100px;
+}
+
+#img{
+    display: block;
+    margin: auto;
+    
+}
+
+#img1{
+    display: block;
+    margin: center;
+    margin-left: 600px;
+
+
+}
+
+#img2{
+    display: block;
+    margin: center;
+    margin-left: 600px;
+
+
+}
+
+.my_img{
+    width: 600px;
+    height: 400px;
+}
+
+/*NAVBAR SECTION STARTS */
+
+nav{
+    background-color: rgb(245, 94, 200);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    padding: 10px 0;
+
+    
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+
+}
+
+li{
+    display: inline;
+    margin-right: 20px;
+    font-size: 40px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(250, 0, 0);
+    font-weight: bold;
+
+
+}
+
+
+/*NAVBAR SECTION ENDS */
+
+footer{
+    background-color: rgb(245, 94, 200);
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    
+    
+}
+
+#who, #contact{
+    color: blueviolet;
+    font-size: xx-large;
+}
+
+#about, #cellphone{
+    text-align: center;
+    font-size: x-large;
+    color: rgb(204, 0, 255);
+    margin-right: 150px;
+    margin-left: 150px;
+    
+}
+
