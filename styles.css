@@ -5,6 +5,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;*/
     margin-top: 150px;
+    background-color: rgb(255, 193, 231);
 
 
 }
@@ -134,3 +135,6 @@ footer{
     
 }
 
+.banner{
+        display:inline-block
+    }
